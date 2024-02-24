@@ -1,1 +1,1 @@
-# Practicing animation using CSS
+# Animation using CSS
