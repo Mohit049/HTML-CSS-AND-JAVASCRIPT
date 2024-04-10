@@ -1,0 +1,20 @@
+#grade{
+    border:1px solid black;
+    height:250px;
+  width:200px;
+  background-image: linear-gradient(red,green);
+
+}
+
+h1{
+    text-shadow: 3px 3px 4px orange, 3px 3px 4px green;
+    
+}
+
+#box{
+    width:300px;
+    height:200px;
+    /* border:2px solid black; */
+   color:blue;
+    box-shadow: 3px 3px 4px 5px blue;
+}
